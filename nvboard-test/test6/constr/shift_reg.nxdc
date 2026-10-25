@@ -1,0 +1,10 @@
+top=shift_reg
+
+
+#clk is set in cpp
+clk BTNC
+rst SW15
+mode (SW10, SW9, SW8)
+din (SW7, SW6, SW5, SW4, SW3, SW2, SW1, SW0)
+serial_in SW11
+dout (LD7, LD6, LD5, LD4, LD3, LD2, LD1, LD0)
