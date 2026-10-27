@@ -1,0 +1,9 @@
+top=FSM_bin
+
+
+clk BTNC
+in SW0
+reset SW15
+
+
+out LD0
